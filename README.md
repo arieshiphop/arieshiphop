@@ -4,7 +4,7 @@ Soy una persona **alegre**, con unas inmensas **ganas** de
 **aprender** cosas nuevas y **mejorar** en todo lo que hago.
 **Ambicioso** y **extrovertido**, me gusta conocer gente
 y poder vivir nuevas **experiencias**.
-**---------------------------------------------------------**
+
 - 🔵 Desarrollador Fullstack
 - 🌹 Abierto a nuevas propuestas
 - 🤔 Aprendiendo cualquier cosa que llegue a mis manos
