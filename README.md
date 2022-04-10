@@ -35,6 +35,8 @@ y poder vivir nuevas **experiencias**.
   - Clean Code
   - Etc
 
+[![Iker Sánchez](https://github-readme-stats.vercel.app/api?username=arieshiphop&count_private=true&include_all_commits=true&show_icons=truecount_private=true&layout=compact&theme=dark&hide_border=true&bg_color=1a1c1f&border_radius=10&custom_title=Estad%C3%ADsticas)](https://github.com/tutitoos)
+
 # Actualmente trabajando en [Alzhmentor](https://github.com/arieshiphop/Alzhmentor/) 🧠
 
 Recientemente, ha habido muchas personas que han sido testigos de que sus seres queridos 
