@@ -39,7 +39,7 @@ y poder vivir nuevas **experiencias**.
   - Clean Code
   - Etc
 
-https://random-memer.herokuapp.com/
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 # Actualmente trabajando en [Alzhmentor](https://github.com/arieshiphop/Alzhmentor/) 🧠
 
