@@ -1,4 +1,7 @@
+<img align="right" width="100" height="100" src="https://emoji.gg/assets/emoji/2970-nyancat.gif"> 
 # Hola, soy Iker 👋
+
+[![Python Lover](https://readme-typing-svg.herokuapp.com?duration=2000&color=5DF700&width=200&lines=Python+lover)](https://https://github.com/arieshiphop/)
 
 Soy una persona **alegre**, con unas inmensas **ganas** de
 **aprender** cosas nuevas y **mejorar** en todo lo que hago.
