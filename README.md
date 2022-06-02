@@ -4,8 +4,6 @@
 
 [![Python Lover](https://readme-typing-svg.herokuapp.com?duration=2000&color=C00015&width=150&height=30&lines=Python+Lover)](https://https://github.com/arieshiphop/)
 
-[![trophy](https://github-profile-trophy.vercel.app/?arieshiphop=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
 Soy una persona **alegre**, con unas inmensas **ganas** de
 **aprender** cosas nuevas y **mejorar** en todo lo que hago.
 **Ambicioso** y **extrovertido**, me gusta conocer gente
