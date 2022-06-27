@@ -2,7 +2,7 @@
 
 # Hola, soy Iker 👋
 
-[![Python Lover](https://readme-typing-svg.herokuapp.com?duration=2000&color=C00015&width=150&height=30&lines=Python+Lover)](https://https://github.com/arieshiphop/)
+[![Tech Lover](https://readme-typing-svg.herokuapp.com?duration=2000&color=C00015&width=150&height=30&lines=Tech+Lover)](https://https://github.com/arieshiphop/)
 
 Soy una persona **alegre**, con unas inmensas **ganas** de
 **aprender** cosas nuevas y **mejorar** en todo lo que hago.
