@@ -19,13 +19,17 @@ y poder vivir nuevas **experiencias**.
 
 
 
-# Tecnologías 🖱️
+# Tecnologías con las que he trabajado 🖱️
 
 - Python 🐍 
 - Javascript 〽️
 - C# (Unity (Videojuegos)) 🎮
+- PHP 🔵
+- Typescript 〽️🔵
 - PawnScript (Derivado de C) 👾
-- Vue.js 🟢
+- Vue 🟢
+- Angular 🍅
+- Ionic 🔱
 - SQL 🙉
 - HTML 🔘
 - CSS 🔶
