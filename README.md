@@ -10,7 +10,7 @@ Soy una persona **alegre**, con unas inmensas **ganas** de
 y poder vivir nuevas **experiencias**.
 
 - 🔵 Desarrollador Fullstack
-- 🌹 Abierto a nuevas propuestas
+- 🌹 Cerrado a nuevas propuestas
 - 🤔 Aprendiendo cualquier cosa que llegue a mis manos
 - 📩 Conectemos - [LinkedIn](https://www.linkedin.com/in/iker-sanchez/)
 
@@ -19,7 +19,7 @@ y poder vivir nuevas **experiencias**.
 
 
 
-# Tecnologías con las que he trabajado 🖱️
+# Tecnologías con las que he trabajado entre otras🖱️
 
 - Python 🐍 
 - Javascript 〽️
