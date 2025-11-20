@@ -1,4 +1,3 @@
-<img align="right" width="100" height="100" src="https://emoji.gg/assets/emoji/2970-nyancat.gif">
 
 # Hola, soy Iker 👋
 
@@ -45,12 +44,6 @@ y poder vivir nuevas **experiencias**.
 
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." style="width:300px; height:300px;">
 
-# Actualmente trabajando en [Alzhmentor](https://github.com/arieshiphop/Alzhmentor/) 🧠
-
-Recientemente, ha habido muchas personas que han sido testigos de que sus seres queridos 
-sufren de Alzheimer y otras formas de demencia.
-A través de un aplicación web, trataremos de ayudarlos entrenando su cerebro y memoria.
-Realiza ejercicios diarios que te ayudarán a mantener la agilidad cerebral
 
 # Redes sociales 🖖
 - [Youtube](https://www.youtube.com/channel/UCuIeP0lTW_h8-UY_fzT349Q) 🧑
