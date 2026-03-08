@@ -4,7 +4,7 @@
 >
 > Por ese motivo, gran parte del código en el que trabajo actualmente no puede publicarse de forma abierta.
 >
-> Los repositorios públicos que aparecen aquí son **proyectos antiguos o experimentales**. Si quieres conocer mejor los proyectos en los que he trabajado (aplicaciones móviles, herramientas internas, proyectos con IA, etc.), puedes encontrar más información en mi **LinkedIn** o escribirme directamente.
+> Los repositorios públicos que aparecen aquí son **proyectos antiguos de novato o experimentales**. Si quieres conocer mejor los proyectos en los que he trabajado (aplicaciones móviles, herramientas internas, proyectos con IA, etc.), puedes encontrar más información en mi **LinkedIn** o escribirme directamente.
 
 # 👋 Hola, soy Iker
 
