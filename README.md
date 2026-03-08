@@ -104,13 +104,6 @@ Esto me ha permitido mejorar habilidades como:
 
 ---
 
-# 📊 Estadísticas de GitHub
-
-![Iker stats](https://github-readme-stats.vercel.app/api?username=arieshiphop&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arieshiphop&layout=compact&theme=tokyonight)
-
----
 
 # 🌍 Conecta conmigo
 
