@@ -1,3 +1,11 @@
+> ⚠️ **Nota rápida para recruiters / visitantes**
+>
+> La mayoría de mis proyectos actuales están en **repositorios privados**, ya que han sido desarrollados para empresas, clientes o son proyectos privados.
+>
+> Por ese motivo, gran parte del código en el que trabajo actualmente no puede publicarse de forma abierta.
+>
+> Los repositorios públicos que aparecen aquí son **proyectos antiguos o experimentales**. Si quieres conocer mejor los proyectos en los que he trabajado (aplicaciones móviles, herramientas internas, proyectos con IA, etc.), puedes encontrar más información en mi **LinkedIn** o escribirme directamente.
+
 # 👋 Hola, soy Iker
 
 💻 Fullstack Developer especializado en **aplicaciones web y móviles**.  
