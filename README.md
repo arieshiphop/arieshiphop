@@ -1,55 +1,125 @@
+# 👋 Hola, soy Iker
 
-# Hola, soy Iker 👋
+💻 Fullstack Developer especializado en **aplicaciones web y móviles**.  
+🚀 Me gusta construir productos, automatizar procesos y experimentar con nuevas tecnologías.
 
-[![Tech Lover](https://readme-typing-svg.herokuapp.com?duration=2000&color=C00015&width=150&height=30&lines=Tech+Lover)](https://https://github.com/arieshiphop/)
+He trabajado en el desarrollo de **plataformas web, aplicaciones móviles y herramientas internas para empresas**, además de crear **proyectos propios y soluciones para clientes**.
 
-Soy una persona **alegre**, con unas inmensas **ganas** de
-**aprender** cosas nuevas y **mejorar** en todo lo que hago.
-**Ambicioso** y **extrovertido**, me gusta conocer gente
-y poder vivir nuevas **experiencias**.
+Actualmente me interesa especialmente:
 
-- 🔵 Desarrollador Fullstack
-- 🌹 Cerrado a nuevas propuestas
-- 🤔 Aprendiendo cualquier cosa que llegue a mis manos
-- 📩 Conectemos - [LinkedIn](https://www.linkedin.com/in/iker-sanchez/)
+- Desarrollo **Fullstack**
+- **Aplicaciones móviles**
+- **Automatización e inteligencia artificial**
+- Creación de **productos digitales**
 
+📩 Conectemos en **LinkedIn**  
+https://www.linkedin.com/in/iker-sanchez/
 
-![Fullstack developer](https://static.javatpoint.com/blog/images/how-to-be-a-full-stack-developer.png)
+---
 
+# 🚀 Tecnologías
 
+### Frontend
+- Angular
+- TypeScript
+- JavaScript
+- Vue
+- Ionic
+- HTML
+- CSS / SCSS
 
-# Tecnologías con las que he trabajado entre otras🖱️
+### Backend
+- Node.js
+- Python
+- PHP
 
-- Python 🐍 
-- Javascript 〽️
-- C# (Unity (Videojuegos)) 🎮
-- PHP 🔵
-- Typescript 〽️🔵
-- PawnScript (Derivado de C) 👾
-- Vue 🟢
-- Angular 🍅
-- Ionic 🔱
-- SQL 🙉
-- HTML 🔘
-- CSS 🔶
-- Git 🐻‍❄️
-- Metodologías ágiles 💬
-  - Scrum
-  - Kanban
-  - Etc
-- Buenas prácticas 😍
-  - TDD (Test Driving Development)
-  - Clean Code
-  - Etc
+### Mobile
+- Ionic
+- Capacitor
+- Android Studio
+- Xcode
 
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." style="width:300px; height:300px;">
+### Bases de datos
+- MySQL
+- SQL
 
+### Otros
+- Git
+- APIs REST
+- Metodologías ágiles (Scrum / Kanban)
+- Clean Code
+- TDD
 
-# Redes sociales 🖖
-- [Youtube](https://www.youtube.com/channel/UCuIeP0lTW_h8-UY_fzT349Q) 🧑
-- [LinkedIn](https://www.linkedin.com/in/iker-sanchez/) 🦸
- 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[![Iker estadísticas](https://youtube-stats-card.vercel.app/api?channelid=UCuIeP0lTW_h8-UY_fzT349Q)](https://www.youtube.com/channel/UCuIeP0lTW_h8-UY_fzT349Q)
+---
 
-[![Iker Sánchez](https://github-readme-stats.vercel.app/api?username=arieshiphop&count_private=true&include_all_commits=true&show_icons=truecount_private=true&layout=compact&theme=dark&hide_border=true&bg_color=1a1c1f&border_radius=10&custom_title=Estad%C3%ADsticas)](https://github.com/arieshiphop)
+# 🧠 Proyectos Destacados
+
+### ⚽ Generador de diseños con IA para torneos de fútbol
+
+Desarrollé una aplicación que utiliza **inteligencia artificial para generar diseños gráficos automáticamente** a partir de fotografías de jugadores.
+
+La herramienta fue creada para una empresa organizadora de **torneos de fútbol**, permitiendo generar imágenes promocionales y contenido visual de forma automática.
+
+Tecnologías utilizadas:
+
+- Python
+- APIs de IA
+- Procesamiento de imágenes
+- Desarrollo web
+
+---
+
+### 📱 Aplicaciones móviles
+
+He trabajado en el desarrollo de aplicaciones móviles multiplataforma utilizando **Angular + Ionic**, incluyendo:
+
+- Aplicaciones para **hospitales** enfocadas en digitalizar procesos administrativos
+- Aplicaciones de **entrenamiento deportivo** con miles de usuarios
+
+---
+
+### 🏃 Plataformas web a gran escala
+
+Participé en el desarrollo de plataformas con **millones de visitas mensuales**, incluyendo funcionalidades frontend y backend.
+
+Tecnologías utilizadas:
+
+- Angular
+- Vue
+- Nuxt
+- PHP
+- MySQL
+
+---
+
+### 🎮 Desarrollo de videojuegos
+
+También he desarrollado **prototipos de videojuegos 2D y 3D utilizando Unity y C#**, participando en proyectos experimentales y prototipos interactivos.
+
+Esto me ha permitido mejorar habilidades como:
+
+- arquitectura de sistemas
+- resolución de problemas
+- diseño de mecánicas
+
+---
+
+# 📊 Estadísticas de GitHub
+
+![Iker stats](https://github-readme-stats.vercel.app/api?username=arieshiphop&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arieshiphop&layout=compact&theme=tokyonight)
+
+---
+
+# 🌍 Conecta conmigo
+
+💼 LinkedIn  
+https://www.linkedin.com/in/iker-sanchez/
+
+📺 YouTube  
+https://www.youtube.com/channel/UCuIeP0lTW_h8-UY_fzT349Q
+
+---
+
+⭐ Siempre estoy abierto a colaborar en proyectos interesantes.
